@@ -1,0 +1,158 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The substance of Sir Bartholomew Shower's speech at the Guild-Hall, Exon, August 19th, 1698 upon declaring the poll for the burgesses of that city elected to serve in this present Parliament.</title>
+            <author>Shower, Bartholomew, Sir, 1658-1701.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A60125</idno>
+            <idno type="STC">Wing S3659</idno>
+            <idno type="STC">ESTC R32684</idno>
+            <idno type="EEBO-CITATION">12745519</idno>
+            <idno type="OCLC">ocm 12745519</idno>
+            <idno type="VID">93247</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A60125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93247)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1536:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The substance of Sir Bartholomew Shower's speech at the Guild-Hall, Exon, August 19th, 1698 upon declaring the poll for the burgesses of that city elected to serve in this present Parliament.</title>
+                  <author>Shower, Bartholomew, Sir, 1658-1701.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for M. Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Religious tolerance.</term>
+               <term>Free trade.</term>
+               <term>Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb facs="tcp:93247:1" rendition="simple:additions"/>
+            <head>The SUBSTANCE of Sir <hi>Bartholomew Shower</hi>'s SPEECH At the <hi>Guild-Hall,</hi> Exon, <hi>Auguſt</hi> 19th, 1698. UPON <hi>Declaring the Poll for the <hi>Burgeſſes</hi> of that City Elected, to Serve in this Preſent Parliament.</hi>
+            </head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>I Am ſorry that Sir <hi>Edward Seymore,</hi> my <hi>Partner,</hi> is not here preſent, to excuſe me from this trouble of making you a publick Addreſs of Thanks: I am ſure 'twou'd be then much better perform'd. I am never found of ſpeaking any thing in <hi>my own buſineſs,</hi> or con<g ref="char:EOLhyphen"/>cerning my ſelf; much leſs in ſo <hi>publick a manner,</hi> and upon <hi>ſuch an occaſion.</hi>
+            </p>
+            <p>However, ſince ſomething of this kind is expected from me, I hope you will permit me to thank Mr. <hi>Sheriff</hi> for his Juſtice and Patience, the <hi>Clerks</hi> for their Pains and Care, and the <hi>Triers, Inſpecters</hi> and <hi>Managers</hi> for their Temper and good Manners. I muſt own, I never knew more Civility, and leſs ill Uſage, in ſuch a troubleſom Affair, and where each <hi>Party</hi> is hearty and zealous for its <hi>Principle</hi> and <hi>Intereſts;</hi> unleſs it were from <hi>One,</hi> whom I muſt publickly take notice of, <hi>One of my own Profeſſion,</hi> who intruded himſelf into the Court with a <hi>Lye</hi> in his Mouth, pretending to be a <hi>Free-holder,</hi> which he was not, was buſie here beyond the Rules of Decency, and afterwards ſneak'd out of Court towards the End of the Poll; he is, I ſuppoſe, a Gentleman <hi>well known,</hi> and therefore I need not <hi>name</hi> him; but ſhall ever <hi>re<g ref="char:EOLhyphen"/>member</hi> him according to his <hi>Deſerts.</hi>
+            </p>
+            <p>
+               <hi>Gentlemen,</hi> I am likewiſe to take notice of ſome <hi>Reflections,</hi> maliciouſly and falſly caſt upon me; particularly in that <hi>ſcandalous Libel,</hi> or <hi>Queries,</hi> poſted at the <hi>Guild-Hall;</hi> a baſe, mean and unmanly way of injuring a Gentleman's Reputation.</p>
+            <p>It hath been inſinuated, as if I was a <hi>Papiſt;</hi> whereas I never was <hi>preſent,</hi> or ever <hi>heard Maſs</hi> in my Life time. I was in the Service of the <hi>Late King,</hi> but ſo far from being a <hi>Pa<g ref="char:EOLhyphen"/>piſt,</hi> that I <hi>conſtantly</hi> was a <hi>Communicant</hi> in the <hi>Church of England;</hi> and never cou'd, nor e<g ref="char:EOLhyphen"/>ver ſhall believe Pope <hi>Pius</hi>'s Creed.</p>
+            <p>It was pretended, to my Prejudice, as if I had been e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>clined to the <hi>Eighteen-Penny-Act.</hi> I thank God, the <hi>Church of England</hi> hath a competent Support, and I pray for its Conti<g ref="char:EOLhyphen"/>nuance; but cannot well in that manner wiſh 'em more, leaſt it encreaſe the Envy againſt it, which is more than enough already: Tho' the <hi>Motion</hi> was made to Me, I thought it very <hi>Improper and <g ref="char:V">Ʋ</g>nſeaſonable, and ſo declar'd,</hi> eſpecially at a <hi>Time,</hi> when the People la<g ref="char:EOLhyphen"/>bour under ſuch, and ſo great <hi>Taxes</hi> and <hi>Payments,</hi> as they are hardly able to bear: The Report therefore was Malicious and Falſe.</p>
+            <p>They have farther Reflected on Me as a <hi>Council,</hi> and as <hi>Pleading for Traytors;</hi> I have done it, and with ſuch <hi>Manners,</hi> as never diſguſted my Superiors: And it has been acknow<g ref="char:EOLhyphen"/>ledg'd to be for the Honour of the King and Government, to permit a fair and favourable Hearing of <hi>Council</hi> in all Caſes. There is no Reaſon that the <hi>Principles</hi> or <hi>Actions</hi> of <hi>Cli<g ref="char:EOLhyphen"/>ents,</hi> ſhould be imputed to the <hi>Council</hi> that plead for 'em; I am ſure it is not ſo eſteem'd <hi>A<g ref="char:EOLhyphen"/>bove,</hi> or in <hi>other Places:</hi> 'Tis the greateſt Commendation that can be of the <hi>Preſent Go<g ref="char:EOLhyphen"/>vernment,</hi> that there have been no <hi>Reflections</hi> or <hi>Hardſhips</hi> upon any <hi>Council,</hi> that have ap<g ref="char:EOLhyphen"/>peared in any <hi>Criminal Cauſe</hi> whatſoever. Thoſe Men have been reckon'd the <hi>Greateſt</hi> and <hi>Leſt</hi> amongſt the <hi>Romans</hi> who undertook to defend Perſons under <hi>Proſecution:</hi> Sure I am, 'tis a much more difficult Province to <hi>Defend,</hi> than 'tis to <hi>Accuſe;</hi> and I hope the People are by this time ſatisfied that I was in no Fault upon that Account.</p>
+            <p>Again, they have ſaid in their <hi>Malice,</hi> that I was <hi>Conſenting to the taking off the Penal Laws and Teſt:</hi> 'Tis Falſe, and I was never ſo much as <hi>Cloſſetted</hi> to that Purpoſe. I was a <hi>Servant</hi> to the <hi>late <g ref="char:V">Ʋ</g>nhappy King;</hi> but I hope 'tis no Reflection upon any Perſon to be <hi>True to his Truſt.</hi> Had I been in the Service of this King, I ſhou'd have been as <hi>True;</hi> and as I am now to ſerve <hi>My Country and the King,</hi> I will be <hi>True to both,</hi> and Zealous in their Ser<g ref="char:EOLhyphen"/>vice to the utmoſt of my Power.</p>
+            <p>As to the other <hi>Little Reflections,</hi> I cannot value 'em ſo much as to allow 'em an Anſwer, but muſt deſpiſe 'em: I cou'd <hi>Recriminate,</hi> but think it better to <hi>forbear.</hi> I can gueſs who wrote the <hi>Queries,</hi> and from whence they came: <hi>One</hi> of the <hi>Candidates</hi> of the <hi>other ſide</hi> is ſo Good a Man that He freely gave his Vote for Me to be <hi>His</hi> and <hi>Your Repreſentative,</hi> and therefore <hi>He</hi> cou'd not be the <hi>Author.</hi>
+            </p>
+            <pb facs="tcp:93247:2"/>
+            <p> And now as to my <hi>Buſineſs</hi> you ſend me about: I cou'd wiſh that you cou'd and wou'd <hi>Poll</hi> again, for the aſcertaining <hi>Your Opinions,</hi> and acquainting Me <hi>what I am to do.</hi> I wou'd willingly undergo Three ſuch Days Fatigue more, or ſtay till the beginning of the Seſſion to know your Sentiments: And <hi>Gentlemen,</hi> I ſhall never <hi>Vote</hi> contrary to your <hi>General In<g ref="char:EOLhyphen"/>clinations,</hi> unleſs I can render you a ſatisfactory Reaſon why I do ſo.</p>
+            <p>There are but <hi>Three Things</hi> that can be of <hi>Concernment; Religion, Government</hi> and <hi>Trade.</hi>
+            </p>
+            <p>As to <hi>Religion,</hi> by the little Converſation I have had in <hi>This Place</hi> of late, tho' I was <hi>Born</hi> and <hi>Bred</hi> among you, and many of you were my School fellows, even till my Age of Seventeen Years, yet that is ſome time ſince. Therefore, I ſay, by the Converſation I have had with you of late, I take it to be your general Sentiment, that the <hi>National Eſta<g ref="char:EOLhyphen"/>bliſh'd Church of England,</hi> is the beſt in the World, and the moſt Neceſſary, in reſpect of Publick Government; its <hi>Doctrine</hi> the moſt <hi>Rational</hi> and <hi>Primitive,</hi> its <hi>Publick Liturgy</hi> the beſt fram'd, to <hi>Raiſe</hi> and to <hi>Expreſs Devotion;</hi> and I challenge any Man to ſhew me any Words ſo likely to inſpire Mens Minds with <hi>Fervor</hi> and <hi>Zeal,</hi> as the <hi>Magnificat</hi> and <hi>Te Deum.</hi>
+            </p>
+            <p>In <hi>This Church</hi> I have been a <hi>Conſtant Communicant,</hi> ever ſince the Eighteenth Year of my Age; but yet I muſt declare (notwithſtanding the falſe Imputation of it to our Church) that my <hi>Opinion</hi> is againſt <hi>Perſecution;</hi> and if ſome differ from me, whom I do reſpect and value; I hope they will not think it my Fault, but my Misfortune. I cannot forbear thinking that no Man ſhou'd ſuffer for acting according to his <hi>Conſcience,</hi> in Mat<g ref="char:EOLhyphen"/>ters <hi>meerly Religious:</hi> I am for <hi>Liberty of Conſcience</hi> to thoſe, who for <hi>Real Conſcience</hi> cannot comply; But I cannot much reſpect thoſe Men who pretend to ſuch a <hi>Scrupulous Conſcience,</hi> and yet can <hi>Occaſionally Communicate</hi> with us, on purpoſe to <hi>Qualifie</hi> themſelves for an <hi>Office.</hi> I tell you therefore, that I am not for taking away the <hi>Toleration</hi> as it is Limited in the Ex<g ref="char:EOLhyphen"/>erciſe of it by the Laws of the Land, tho' that has been induſtriouſly Spread Abroad throughout the Town, as if nothing were deſign'd but the <hi>Silencing</hi> of thoſe <hi>Miniſters:</hi> No, My Aim is only to <hi>Maintain the Church,</hi> as now ſupported and fenc'd; and I wiſh and hope, that the <hi>Diſſenters</hi> will now be ſatisfied with <hi>This,</hi> ſince 'tis That, and That only, which for Twenty or Thirty Years together, <hi>They</hi> have Pray'd for, and Deſir'd. We hope there<g ref="char:EOLhyphen"/>fore, that They will be content with it; and that all of us may be Happy.</p>
+            <p>As to the <hi>Government,</hi> The beſt we can do is to ſerve it, by <hi>Obedience to the Laws;</hi> and to prevent <hi>Taxes</hi> as much as poſſible, unleſs they are of Publick Neceſſity to preſerve the Whole; and in caſe <hi>Taxes</hi> are ſo neceſſary, to take care that they be <hi>Laid Equally,</hi> and with as little Burthen to <hi>Trade</hi> as can be, which puts me in Mind of ſaying ſomething to <hi>That.</hi>
+            </p>
+            <p>And here, I hope, I ſhall agree with <hi>You,</hi> and <hi>You</hi> with <hi>Me,</hi> That <hi>Trade</hi> is not to be forc'd or reſtrain'd, but ought to have its <hi>Full Liberty.</hi> That 'tis the <hi>Intereſt</hi> of this <hi>King<g ref="char:EOLhyphen"/>dom in General,</hi> as well as of this <hi>Country,</hi> that <hi>Ireland</hi> ſhou'd be humbled. Not that the Country ſhou'd be Drown'd, or the People Maſſacre'd (ſuch Deſires are very unſuitable to an Engliſh Temper) but that a Check be put to their bold Attempts for turning <hi>The Wool<g ref="char:EOLhyphen"/>len Manufacture</hi> out of its <hi>Old Channel,</hi> by removing it from <hi>Hence, Thither.</hi> It muſt of ne<g ref="char:EOLhyphen"/>ceſſity Impoveriſh Us, and I wonder our <hi>Gentry</hi> are not more ſenſible of the Danger; for 'twill unavoidably leſſen the <hi>Value</hi> of their Lands. <hi>Trade</hi> and <hi>Rents</hi> muſt be Equally En<g ref="char:EOLhyphen"/>couraged; It is therefore the Intereſt of <hi>Every body</hi> to Mind this Matter, as well as of <hi>Thoſe</hi> who are actually concern'd in the <hi>Managery of Trade.</hi>
+            </p>
+            <p>Theſe, I preſume, are <hi>Your Thoughts,</hi> They are <hi>Mine,</hi> I aſſure You, and ſhall be follow'd unleſs <hi>You</hi> contradict it: And if at any time, any thing material ſhould be communicated from any Body or Number of Men among You, in this Place, I ſhall endeavour to advance it, or convince You that 'tis either not Practicable, or Unreaſonable. Tho' I am to be go<g ref="char:EOLhyphen"/>vern'd by my <hi>Own Judgment</hi> in my <hi>Vote,</hi> Yet if I can make it comply with the Thoughts of thoſe whom I <hi>Repreſent in the Houſe of Commons,</hi> I ſhall always be glad of it; for in ſome reſpects I take my ſelf to be <hi>Your Advocate,</hi> and I am to do what <hi>You</hi> wou'd do if Your O<g ref="char:EOLhyphen"/>pinions were known. I have one thing more to take Notice of, it's that which is extreme<g ref="char:EOLhyphen"/>ly to my Satisfaction: Not only that This <hi>Election</hi> is ſo <hi>Fair, Regular,</hi> and <hi>Free;</hi> but that I came in by the Intereſt of <hi>The Church of England,</hi> and by the <hi>Chamber of this City,</hi> as well as by the hearty Endeavours of the good <hi>Trading People</hi> here; and I may add, with the Ge<g ref="char:EOLhyphen"/>neral Approbation of the <hi>Gentry of Devon,</hi> as well as the good Will of The Right Reve<g ref="char:EOLhyphen"/>rend Father in God, the <hi>Lord Biſhop of this Dioceſs,</hi> who is much <hi>Your</hi> Friend, and has us'd his utmoſt endeavours for the Promotion of the <hi>Wool-Bill:</hi> I was an Eye and Ear witneſs of it; I was preſent with Him from Nine till One for ſeveral days together, four or five days a Week, for a long time. His Labours were great as was his <hi>Zeal for Your ſervice:</hi> and I am morally aſſur'd that He will repeat His Endeavours the <hi>Next Seſſions,</hi> and ſo will I with all my Heart, and ſhall be very warm as long as I am in <hi>Your ſervice</hi> to promote the good of <hi>this City,</hi> the Place of my <hi>Birth</hi> and <hi>Education.</hi> And God preſerve <hi>King Wil<g ref="char:EOLhyphen"/>liam,</hi> and the City of <hi>Exeter.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>M. Baldwin,</hi> at the <hi>Oxford-Arms-Inn</hi> in <hi>Warwick-Lane.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
